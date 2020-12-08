@@ -1,0 +1,88 @@
+h5 {
+
+	left: 5%;
+	top: 30px;
+	font-size: 60px;
+	text-align: center;
+	font-family:"Edwardian Script ITC", sans-serif;
+	color: #ffffff;
+}
+body { 
+	background-image: url("tiili.jpg");
+	max-width: 100%;
+	height:auto;
+
+}
+
+h6 {
+	left: 5%;
+	top: 30px;
+	font-size: 60px;
+	text-align: center;
+	font-family:"Edwardian Script ITC", sans-serif;
+}
+
+h4 {
+	left: 5%;
+	top: 30px;
+	font-size: 60px;
+	text-align: center;
+	font-family:"Edwardian Script ITC", sans-serif;
+	color: #ffffff;
+}
+
+h3 {
+	left: 5%;
+	top: 30px;
+	font-size: 70px;
+	text-align: center;
+	font-family:"Edwardian Script ITC", sans-serif;
+	color: #ffffff;
+}
+
+p {
+	left: 5%;
+	top: 30px;
+	font-size: 30px;
+	text-align: center;
+	font-style: italic;
+	color: #ffffff;
+}
+
+img {
+	border: 3px solid white;
+	max-width: 100%; 
+	height: auto;
+}
+ul {	
+	font-size: 20px;
+	text-align: center;
+	font-style: italic;
+	list-style-type: none;
+	color: #ffffff;
+}
+
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+.myCarousel {
+	width: 300px;
+}
+textbox {
+	width:80%;
+}
+form-group {
+	width:80%;
+}
+
+.boksi {
+	text-align: center;
+}
+
+.textarea {
+	max-width: 100%;
+	height:auto;
+}
+	
